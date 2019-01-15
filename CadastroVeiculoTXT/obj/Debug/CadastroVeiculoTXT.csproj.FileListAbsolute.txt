@@ -1,0 +1,10 @@
+C:\Cursos\Curso_ASPNet\CadastroVeiculoTXT\CadastroVeiculoTXT\bin\Debug\CadastroVeiculoTXT.exe.config
+C:\Cursos\Curso_ASPNet\CadastroVeiculoTXT\CadastroVeiculoTXT\bin\Debug\CadastroVeiculoTXT.exe
+C:\Cursos\Curso_ASPNet\CadastroVeiculoTXT\CadastroVeiculoTXT\bin\Debug\CadastroVeiculoTXT.pdb
+C:\Cursos\Curso_ASPNet\CadastroVeiculoTXT\CadastroVeiculoTXT\obj\Debug\CadastroVeiculoTXT.csprojAssemblyReference.cache
+C:\Cursos\Curso_ASPNet\CadastroVeiculoTXT\CadastroVeiculoTXT\obj\Debug\CadastroVeiculoTXT.lab07form.resources
+C:\Cursos\Curso_ASPNet\CadastroVeiculoTXT\CadastroVeiculoTXT\obj\Debug\CadastroVeiculoTXT.Properties.Resources.resources
+C:\Cursos\Curso_ASPNet\CadastroVeiculoTXT\CadastroVeiculoTXT\obj\Debug\CadastroVeiculoTXT.csproj.GenerateResource.cache
+C:\Cursos\Curso_ASPNet\CadastroVeiculoTXT\CadastroVeiculoTXT\obj\Debug\CadastroVeiculoTXT.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso_ASPNet\CadastroVeiculoTXT\CadastroVeiculoTXT\obj\Debug\CadastroVeiculoTXT.exe
+C:\Cursos\Curso_ASPNet\CadastroVeiculoTXT\CadastroVeiculoTXT\obj\Debug\CadastroVeiculoTXT.pdb
